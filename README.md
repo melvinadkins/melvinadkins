@@ -1,9 +1,11 @@
 ## Hi, I'm Melvin👋
 
 📃 **About Me**
+
 I'm a data scientist who enjoys building statistical and machine learning models to solve complex problems. My path started with a Mathematics degree, driven by the satisfaction of tackling difficult problems and appreciating the structure and beauty of math. That same curiosity fuels my work in data science, where I enjoy the creative process of feature engineering, model selection, and data storytelling. Outside of work, I've drawwn inspiration from films like *Moneyball*, *The Matrix*, and  all of which highlight the power of data, logic, and creativity in shaping outcomes.
 
 💻 **Tech Stack**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
