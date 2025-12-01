@@ -1,4 +1,29 @@
-## Hi, I'm Melvin👋
+## Hi, I'm Melvin 👋
+
+# 💫 About Me:
+🔭 I’m currently working on<br>Data Science and Machine Learning<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>Advanced machine learning techniques, model evaluation, hyperparameter tuning, and scalable data workflows<br>💬 Ask me about<br>Statistical modeling, pattern recognition, mathematical intuition behind ML, or building reproducible data science pipelines.<br>⚡ Fun fact<br>I got into math because I loved how simple symbols on paper could model real-world phenomena, and that eventually led me into data science and machine learning.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/me) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=melvinadkins&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=melvinadkins&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinadkins&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=melvinadkins&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
 
 📃 **About Me**
 
@@ -20,41 +45,6 @@ I'm a data scientist who enjoys building statistical and machine learning models
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>  
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>  
 
-Introduce yourself: Briefly describe your background, interests in data science, and what you're currently working on or looking for.
 
-Showcase key skills: Use badges or a clear list to highlight your proficiency in languages (Python, R, SQL), libraries (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), and tools (Jupyter, Tableau, Power BI).
-
-Link to other platforms: Include links to your LinkedIn, personal website, blog, or Kaggle profile.
-
-Display activity: Utilize widgets or badges to show your GitHub contributions, trophies, or streak statistics.
-
-2. Project Repositories:
-3. 
-Curate your projects: Focus on quality over quantity. Choose projects that demonstrate a range of data science skills and problem-solving approaches.
-
-Thorough README files for each project:
-
-Project Overview: Clearly explain the project's purpose, the problem it addresses, and the insights gained.
-Technical Aspects: Detail the methodologies, models, and algorithms used. Include metrics like accuracy or performance.
-Installation/Usage: Provide clear instructions for setting up and running the project.
-Demo (optional): If applicable, include screenshots, GIFs, or links to deployed versions.
-Data Sources: Cite any datasets used and their origins.
-Credits: Acknowledge collaborators, research papers, or resources.
-Clean and well-commented code: Ensure your code is readable, organized, and adequately commented for understanding.
-Diverse project types: Include projects ranging from data cleaning and exploration to machine learning model development, data visualization, or even contributions to open-source data science libraries.
-End-to-End Projects: Demonstrate your ability to handle a project from data acquisition to deployment, showcasing a holistic understanding of the data science lifecycle.
-
-<!--
-**melvinadkins/melvinadkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
