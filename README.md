@@ -19,7 +19,6 @@ Credits: Acknowledge collaborators, research papers, or resources.
 Clean and well-commented code: Ensure your code is readable, organized, and adequately commented for understanding.
 Diverse project types: Include projects ranging from data cleaning and exploration to machine learning model development, data visualization, or even contributions to open-source data science libraries.
 End-to-End Projects: Demonstrate your ability to handle a project from data acquisition to deployment, showcasing a holistic understanding of the data science lifecycle.
--
 
 <!--
 **melvinadkins/melvinadkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
