@@ -12,6 +12,19 @@ I'm always open to connecting and collaborating!
 
 ## 🚀 Highlighted Projects:
 
+### ⚕️ Predicting Heart Disease with Logistic Regression 
+Built a logistic regression model using the Framingham Heart Study dataset to predict 10-year risk of CHD. Includes full data preprocessing, handling 
+class imbalance, feature importance analysis, and threshold optimization to improve the precision/recall balance beyone the default 0.50 cutoff. \
+Key Techniques: Logistic Regression, Pandas Profiling, Imbalanced Data Handling, Threshold Tuning, ROC-AUC Analysis \
+[🔗 View Project](https://github.com/melvinadkins/Predicting-Heart-Disease-with-Logistic-Regression)
+
+### 🏋️ Calorie Loss Prediction Model
+End-to-end machine learning pipeline predicting calories burned during a workout using CatBoost with GPU-accelerated hyperparameter tuning. Built with full
+EDA, feature engineering, model comparison, RMSLE-optimized tuning, and deployed through a Streamlit application. \
+Key Techniques: CatBoost Regressor, Feature Engineering, Pipeline + Hyperparameter Tuning, GPU Acceleration, Model Deployment \
+[🔗 View Project](https://github.com/melvinadkins/Predict-Calorie-Expenditure) \
+[🔗 View App](https://predict-calorie-expenditure.streamlit.app/) 
+
 ---
 
 ## 💻 Tech Stack:
@@ -44,10 +57,5 @@ https://graphacademy.neo4j.com/c/99ce8b59-6c80-43db-95bb-a72546563e9f/
 ![](https://github-readme-stats.vercel.app/api?username=melvinadkins&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=melvinadkins&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinadkins&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 📈 Visit Counter:
-[![](https://visitcount.itsvg.in/api?id=melvinadkins&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
