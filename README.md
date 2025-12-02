@@ -31,7 +31,7 @@ _The International FLAIRS Conference Proceedings, 2024_
 **DOI:** https://doi.org/10.32473/flairs.37.1.135551  
 
 **Neo4j Certified Professional (2024)**  
-https://graphacademy.neo4j.com/c/99ce8b59-6c80-43db-95bb-a725465639f/
+https://graphacademy.neo4j.com/c/99ce8b59-6c80-43db-95bb-a72546563e9f/
 
 ---
 
