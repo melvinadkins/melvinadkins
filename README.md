@@ -2,11 +2,11 @@
 Data Scientist | Machine Learning | NLP | Analytical Problem Solver
 
 ## 💫 About Me:
-I'm a data scientist with a strong foundation in mathematics and a passion for building statistical and machine learning models to solve real-world problems. I enjoy the end-to-end data science workflow, from exploratory data analysis and feature engineering to hyperparameter tuning, model evaluation, and deployment.
+I’m a data scientist with a strong foundation in mathematics and a passion for building statistical and machine learning models that solve real-world problems. I enjoy the full data science lifecycle, including exploratory analysis, feature engineering, modeling, hyperparameter tuning, and model evaluation with a bias for clear and interpretable solutions.
 
-I've applied these skills across academic research, government, and fintech projects, working on time series forecasting, classification modeling, NLP, and anomaly detection. I'm also curious about how data shapes user behavior, content engagement, and broader digital experiences across different industries.
+I’ve applied these skills across academic research, federal government, and fintech projects, working on time series forecasting, classification modeling, NLP, anomaly detection, and large-scale data pipelines. I’m also interested in how data shapes digital experiences, user behavior, and content engagement across different industries.
 
-I'm always open to connecting and collaborating!
+I'm always open to learning and collaborating!
 
 ---
 
