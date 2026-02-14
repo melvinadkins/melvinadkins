@@ -1,12 +1,10 @@
 # Hi, I'm Melvin!👋 
-Data Scientist | Machine Learning | NLP | Analytical Problem Solver
+Data Scientist with Mathematics Background | Statistical Modeling & ML Pipelines
 
 ## 💫 About Me:
-I’m a data scientist with a strong foundation in mathematics and a passion for building statistical and machine learning models that solve real-world problems. I enjoy the full data science lifecycle, including exploratory analysis, feature engineering, modeling, hyperparameter tuning, and model evaluation with a bias for clear and interpretable solutions.
+I’m a data scientist with a strong foundation in mathematics and a passion for building statistical and machine learning models that solve real-world problems. My work spans exploratory analysis, feature engineering, model development, hyperparameter tuning, and rigorous evaluation with an emphasis on interpretability and sound methodology.
 
-I’ve applied these skills across academic research, federal government, and fintech projects, working on time series forecasting, classification modeling, NLP, anomaly detection, and large-scale data pipelines. I’m also interested in how data shapes digital experiences, user behavior, and content engagement across different industries.
-
-I'm always open to learning and collaborating!
+I’ve applied these skills across academic research, federal government, and fintech-related projects, including time series forecasting, classification modeling/segmentation, NLP, anomaly detection, and large-scale data workflows. I'm particularly interested in how data informs user behavior, digital experiences, and decision-making across industries.
 
 ---
 
@@ -28,19 +26,20 @@ Key Techniques: CatBoost Regressor, Feature Engineering, Pipeline + Hyperparamet
 ---
 
 ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)](https://spark.apache.org/docs/latest/api/python/) [![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/) [![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)](https://xgboost.readthedocs.io/) [![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)](https://catboost.ai/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+
 
 ---
 
 ## 🎓 Education: 
-**MS, Applied Data Science** - New College of Florida \
-**BS, Mathematics** - St. Ambrose University
+**M.S. Applied Data Science** - New College of Florida \
+**B.S. Mathematics** - St. Ambrose University
 
 ---
 
 ## 📃 Publications and Certifications:
 **Twitter User Account Classification to Gain Insights into Communication Dynamics and Public Awareness During Tampa Bay’s Red Tide Events**  
-_The International FLAIRS Conference Proceedings, 2024_  
+The International FLAIRS Conference Proceedings (2024)
 **DOI:** https://doi.org/10.32473/flairs.37.1.135551  
 
 **Neo4j Certified Professional (2024)**  
@@ -48,7 +47,7 @@ https://graphacademy.neo4j.com/c/99ce8b59-6c80-43db-95bb-a72546563e9f/
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melvinadkins) 
 
 ---
