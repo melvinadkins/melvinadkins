@@ -39,7 +39,7 @@ Key Techniques: CatBoost Regressor, Feature Engineering, Pipeline + Hyperparamet
 
 ## 📃 Publications and Certifications:
 **Twitter User Account Classification to Gain Insights into Communication Dynamics and Public Awareness During Tampa Bay’s Red Tide Events**  
-The International FLAIRS Conference Proceedings (2024)
+The International FLAIRS Conference Proceedings (2024)   
 **DOI:** https://doi.org/10.32473/flairs.37.1.135551  
 
 **Neo4j Certified Professional (2024)**  
