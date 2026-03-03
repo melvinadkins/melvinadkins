@@ -20,7 +20,7 @@ Built a logistic regression model using the Framingham Heart Study dataset to pr
 Developed a machine learning pipeline to predict calories burned during exercise using CatBoost with GPU-accelerated hyperparameter tuning. Included feature engineering, model benchmarking, RMSLE-optimized tuning, and built with an interactive Streamlit web application
 
 **Key Techniques:** CatBoost • GPU Tuning • Feature Engineering • RMSLE Optimization    
-[🔗 View Project](https://github.com/melvinadkins/Predict-Calorie-Expenditure) | [🔗 View App](https://predict-calorie-expenditure.streamlit.app/) 
+[🔗 View Project](https://github.com/melvinadkins/Predict-Calorie-Expenditure) | [🔗 View App](https://calorie-expenditure-prediction.streamlit.app/)
 
 ---
 
