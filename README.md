@@ -16,10 +16,10 @@ Built a logistic regression model using the Framingham Heart Study dataset to pr
 **Key Techniques:** Logistic Regression • Threshold Optimization • ROC-AUC • Class Imbalance Handling  
 [🔗 View Project](https://github.com/melvinadkins/Predicting-Heart-Disease-with-Logistic-Regression)
 
-### 🏋️ Calorie Loss Prediction Model
-Developed a machine learning pipeline to predict calories burned during exercise using CatBoost with GPU-accelerated hyperparameter tuning. Included feature engineering, model benchmarking, RMSLE-optimized tuning, and built with an interactive Streamlit web application
+### 🏋️ Calorie Expenditure System
+Designed and deployed an end-to-end machine learning pipeline to predict calories burned during exercise. Implemented custom feature engineering, cross-validated model benchmarking (Ridge, Random Forest, Decision Tree, XGBoos), RMSLE-optimized hyperparameter tuning, and target log-transformation via TransformedTargetRegressor. Deployed as a production-ready Streamlit web application and reproducible preprocessing.
 
-**Key Techniques:** CatBoost • GPU Tuning • Feature Engineering • RMSLE Optimization    
+**Key Techniques:** XGBoost • Cross-Validation • RandomizedSearchCV • Feature Engineering • RMSLE Optimization • Streamlit Deployment
 [🔗 View Project](https://github.com/melvinadkins/Predict-Calorie-Expenditure) | [🔗 View App](https://calorie-expenditure-prediction.streamlit.app/)
 
 ---
