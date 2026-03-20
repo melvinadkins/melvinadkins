@@ -11,7 +11,7 @@ I've applied these skills across academic research, federal analytics, and busin
 ## 🚀 Highlighted Projects:
 
 ### ⚕️ Predicting Heart Disease with Penalized Logistic Regression 
-Developed an end-to-end machine learning pipeline to predict 10-year coronary heart disease risk using the Framingham dataset. Implemented stratified cross-validationand threshold optimization to improve recall from default settings while maintaining precision. Deployed the model via a FastAPI REST API with reproducible preprocessing and inference pipelines.
+Developed an end-to-end machine learning pipeline to predict 10-year coronary heart disease risk using the Framingham dataset. Implemented stratified cross-validation, class imbalance handling, and threshold optimization to improve recall beyond default settings while maintaining precision. Deployed the model via a FastAPI REST API with reproducible preprocessing and inference pipelines.
 
 **Key Techniques:** Logistic Regression • XGBoost • Threshold Optimization • ROC-AUC • Imbalanced Classification • FastAPI • Scikit-learn Pipelines 
 [🔗 View Project](https://github.com/melvinadkins/chd-risk-prediction)
