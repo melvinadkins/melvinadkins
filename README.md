@@ -10,11 +10,11 @@ I've applied these skills across academic research, federal analytics, and busin
 
 ## 🚀 Highlighted Projects:
 
-### ⚕️ Predicting Heart Disease with Logistic Regression 
+### ⚕️ Predicting Heart Disease with Penalized Logistic Regression 
 Built a logistic regression model using the Framingham Heart Study dataset to predict 10-year coronary heart disease risk. Implemented preprocessing, class imbalance handling, feature importance analysis, and threshold optimization to improve precision-recall balance beyond the default 0.50 cutoff.
 
 **Key Techniques:** Logistic Regression • Threshold Optimization • ROC-AUC • Class Imbalance Handling  
-[🔗 View Project](https://github.com/melvinadkins/Predicting-Heart-Disease-with-Logistic-Regression)
+[🔗 View Project](https://github.com/melvinadkins/chd-risk-prediction)
 
 ### 🏋️ Calorie Expenditure System
 Designed and deployed an end-to-end machine learning pipeline to predict calories burned during exercise. Implemented custom feature engineering, cross-validated model benchmarking (Ridge, Random Forest, Decision Tree, XGBoos), RMSLE-optimized hyperparameter tuning, and target log-transformation via TransformedTargetRegressor. Deployed as a production-ready Streamlit web application and reproducible preprocessing.
