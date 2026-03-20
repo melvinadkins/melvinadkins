@@ -11,15 +11,15 @@ I've applied these skills across academic research, federal analytics, and busin
 ## 🚀 Highlighted Projects:
 
 ### ⚕️ Predicting Heart Disease with Penalized Logistic Regression 
-Built a logistic regression model using the Framingham Heart Study dataset to predict 10-year coronary heart disease risk. Implemented preprocessing, class imbalance handling, feature importance analysis, and threshold optimization to improve precision-recall balance beyond the default 0.50 cutoff.
+Developed an end-to-end machine learning pipeline to predict 10-year coronary heart disease risk using the Framingham dataset. Implemented stratified cross-validationand threshold optimization to improve recall from default settings while maintaining precision. Deployed the model via a FastAPI REST API with reproducible preprocessing and inference pipelines.
 
-**Key Techniques:** Logistic Regression • Threshold Optimization • ROC-AUC • Class Imbalance Handling  
+**Key Techniques:** Logistic Regression • XGBoost • Threshold Optimization • ROC-AUC • Imbalanced Classification • FastAPI • Scikit-learn Pipelines 
 [🔗 View Project](https://github.com/melvinadkins/chd-risk-prediction)
 
 ### 🏋️ Calorie Expenditure System
 Designed and deployed an end-to-end machine learning pipeline to predict calories burned during exercise. Implemented custom feature engineering, cross-validated model benchmarking (Ridge, Random Forest, Decision Tree, XGBoos), RMSLE-optimized hyperparameter tuning, and target log-transformation via TransformedTargetRegressor. Deployed as a production-ready Streamlit web application and reproducible preprocessing.
 
-**Key Techniques:** XGBoost • Cross-Validation • RandomizedSearchCV • Feature Engineering • RMSLE Optimization • Streamlit Deployment
+**Key Techniques:** XGBoost • Cross-Validation • RandomizedSearchCV • Feature Engineering • RMSLE Optimization • Streamlit Deployment • Scikit-learn Pipelines
 
 [🔗 View Project](https://github.com/melvinadkins/Predict-Calorie-Expenditure) | [🔗 View App](https://calorie-expenditure-prediction.streamlit.app/)
 
